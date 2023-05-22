@@ -1,10 +1,47 @@
-# Getting Started with Create React App
+# Crypto Manager
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Crypto Manager WebApp built with React is a crypto currency tracking and portfolio site. It is a very handy tool for crypto currency investors. You can watch the price, marketcap graph of any crypto currency , and predict possible future price.
 
-## Available Scripts
+## Features
+  - Various Crypto Currencies are available
+  - Analyse of each cryptocoins prices and marketcap graph
+  - Filter your search
+  - Graph contains prices and marketcap data upto a year
+  - Dark mode
+  - Trending Coins Section
 
-In the project directory, you can run:
+## Preview
+VIDEO LINK ADDING
+
+
+## Tech Stack
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="ftailwind" />   
+
+## Credit
+ - <a href="https://www.npmjs.com/package/react-chartjs-2" >Chart js</a>
+ - <a href="https://www.npmjs.com/package/react-loading-skeleton" >React Loading Skleleton</a>
+ - <a href="https://www.npmjs.com/package/react-alice-carousel" >React Alice Carouse</a>
+ - <a href="https://v4.mui.com/" >Material ui</a>
+ - <a href="https://www.coingecko.com/en/api/documentation" >CryptoGecko Api</a>
+
+## To Do
+
+<ul>
+  <li>[ ] Portfolio</li>
+  <li>[ ] Prediction using ML</li>
+</ul>
+
+
+### Installation
+
+```
+git clone https://github.com/Vyomrana02/CryptoCurrency_Tracker.git
+
+npm install
+
+npm start
+```
 
 ### `npm start`
 
@@ -28,43 +65,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
