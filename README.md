@@ -11,7 +11,11 @@ Crypto Manager WebApp built with React is a crypto currency tracking and portfol
   - Trending Coins Section
 
 ## Preview
-VIDEO LINK ADDING
+
+
+
+https://github.com/Vyomrana02/CryptoCurrency_Tracker/assets/87069619/af766190-cf66-4f3c-96a5-a92481e245cc
+
 
 
 ## Tech Stack
