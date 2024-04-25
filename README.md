@@ -68,4 +68,33 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
+
+## To run using docker
+#Prerequisites
+Before running the application, make sure you have Docker installed on your system. You can download and install Docker from [here](https://www.docker.com/get-started).
+
+## Getting Started
+
+To run Crypto Tracker using Docker, follow these simple steps:
+
+### Step 1: Pull the Docker Image
+
+```bash
+docker pull vyomrana02/crypto-tracker
+```
+
+Step 2: Run the Docker Container
+```bash
+docker run -d -it -p 3000:3000 --name crypto-tracker vyomrana02/crypto-tracker
+```
+
+Step 3: Access Crypto Tracker
+Once the container is running, you can access Crypto Tracker by navigating to http://localhost:3000 in your web browser.
+
+Stopping the Container
+To stop the Crypto Tracker container, use the following command:
+
+``` bash
+docker stop crypto-tracker
+```
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
