@@ -70,7 +70,7 @@ Your app is ready to be deployed!
 
 
 ## To run using docker
-#Prerequisites
+### Prerequisites
 Before running the application, make sure you have Docker installed on your system. You can download and install Docker from [here](https://www.docker.com/get-started).
 
 ## Getting Started
